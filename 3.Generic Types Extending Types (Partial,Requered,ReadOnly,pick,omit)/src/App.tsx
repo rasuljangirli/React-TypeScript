@@ -31,8 +31,7 @@ function App() {
     arr.forEach((element: GenericType<T>) => console.log(element));
   }
   writeArr(arr);
-  console.log("----------------------------------------------------");
-
+  
   //? Extends
  
 
