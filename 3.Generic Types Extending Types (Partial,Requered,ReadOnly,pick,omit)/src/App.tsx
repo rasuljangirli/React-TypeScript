@@ -66,7 +66,7 @@ function App() {
   console.log(driveCar_1);
   console.log(driveCar_2);
 
-  //? Partial , Required, ReadOnly,pick,omit
+  //? Partial Required ReadOnly Pick Omit
 
   interface User {
     name: string;
