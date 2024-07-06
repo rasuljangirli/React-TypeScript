@@ -8,10 +8,6 @@ function App() {
   writeClg([1, 2, 3, 4, 5]);
   writeClg(["Hello", "How", "are", "You"]);
   writeClg([true, false]);
-
-  console.log("--------------------------------------------");
-
-
  
   interface GenericType<T> {
     name: string;
