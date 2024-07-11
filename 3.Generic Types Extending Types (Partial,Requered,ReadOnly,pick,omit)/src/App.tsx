@@ -93,7 +93,6 @@ function App() {
 
   //!ReadOnly
   
-
   let User_Tree: Readonly<User> = {
     name: "Alisa",
     age: 23,
