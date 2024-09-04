@@ -12,7 +12,7 @@ function App() {
 
   //todo Union Types  |
   let win: string | number | boolean = "24";
-
+  
   //todo Literal Types
   let statusResult: "padding" | "approve" | "rejected";
   statusResult = "padding";
