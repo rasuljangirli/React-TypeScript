@@ -2,7 +2,7 @@ import "./App.css";
 
 function App() {
   //? string number boolean  undifinde null object
-
+  
   let lastName: string = "Galatasaray";
   let age: number = 1905;
   let isActive: boolean = true;
